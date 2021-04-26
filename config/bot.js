@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODMxOTQwMTA1NDg3OTA4OTE0.YHcimQ.1U34eDBdvHbTWuXmA2uNBZ5KqJE',
+        token: 'TOKEN',
         prefix: '/',
         activity: 'tocando uns batidão 🎵', 
     },
